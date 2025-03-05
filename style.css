@@ -389,6 +389,7 @@ body.dark-mode .title .grand {
   text-align: center;
   font-weight: bolder;
   text-align: center;
+  color:var(--first-color);
 }
 body.dark-mode .title .grand1 {
   color: var(--third-color);
