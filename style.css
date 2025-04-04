@@ -879,6 +879,8 @@ footer .copyrigth p {
   }
   #Home .image img {
     width: 70%;
+    padding : 3px;
+    border:2px solid #fff;
   }
   #Home .text {
     width: 100%;
