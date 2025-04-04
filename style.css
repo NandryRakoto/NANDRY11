@@ -908,10 +908,12 @@ footer .copyrigth p {
     padding: 70px 0;
   }
   .title .grand {
-    font-size: 70px;
+    font-size: 50px;
+    width: 100%;
   }
   .title .grand1 {
-    font-size: 30px;
+    font-size: 25px;
+    width: 100%;
   }
 
   #About .container-About {
