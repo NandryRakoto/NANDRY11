@@ -48,9 +48,8 @@ document.addEventListener("DOMContentLoaded", () => {
   new Typed("#typed", {
     strings: [
       " ",
-      "a front-end web developer ",
-      "who loves building clean",
-      " and interactive websites",
+      "Développeur Web Front-End  ",
+      "d passionné par la création de sites interactifs",
       "...",
     ],
     typeSpeed: 50,
