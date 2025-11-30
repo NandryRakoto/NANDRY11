@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
       " ",
       "Développeur Web Full-Stack  ",
       "Passionné par la création d’applications ",
-      "..."
+      "...",
       "",
     ],
     typeSpeed: 50,
@@ -156,4 +156,5 @@ ScrollReveal().reveal(".gauche", {
   duration: 1000,
   reset: "false",
 });
+
 
