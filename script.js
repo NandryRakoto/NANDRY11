@@ -48,9 +48,10 @@ document.addEventListener("DOMContentLoaded", () => {
   new Typed("#typed", {
     strings: [
       " ",
-      "Développeur Web Front-End  ",
-      "d passionné par la création de sites interactifs",
-      "...",
+      "Développeur Web Full-Stack  ",
+      "Passionné par la création d’applications ",
+      "..."
+      "",
     ],
     typeSpeed: 50,
     backSpeed: 25,
@@ -70,7 +71,7 @@ function animateProgressBars(entries, observer) {
   entries.forEach((entry) => {
     if (entry.isIntersecting) {
       const progressBars = entry.target.querySelectorAll(".skill-progress");
-      progressBars.forEach((bar) => {
+     modernes, interactives et performantes progressBars.forEach((bar) => {
         const percentage = bar.getAttribute("data-percentage");
         bar.style.width = percentage + "%"; // Définir la largeur finale
       });
@@ -155,3 +156,4 @@ ScrollReveal().reveal(".gauche", {
   duration: 1000,
   reset: "false",
 });
+
